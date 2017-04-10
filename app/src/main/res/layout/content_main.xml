@@ -11,12 +11,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-<<<<<<< HEAD
         android:text="Hello Worldddwiguwheiugh!"
         android:textSize="44sp"
-=======
-        android:text="Hello World!"
->>>>>>> parent of 4f9c1ad... make text bigger
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
